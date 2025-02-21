@@ -1,6 +1,6 @@
 # test-three-js
 
-## วิธีใช้งาน Three.js
+## วิธีติดตั้ง Three.js
 
 1. ติดตั้ง Node.js
 2. สร้างไฟล์ index.html, main.js และโฟลเดอร์ public
@@ -17,4 +17,6 @@ npm install --save-dev vite
 4. รัน local server ด้วยคำสั่ง
 ```
 npx vite
-``` 
+```
+
+อ้างอิงจาก [THREE.js Docs](https://threejs.org/docs/#manual/en/introduction/Installation)
